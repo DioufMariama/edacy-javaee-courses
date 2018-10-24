@@ -1,5 +1,7 @@
 # edacy-javaee-courses
 This repo contains sources for JEE training given at Edacy Makersday
+# cours-javaEE
+Ce référentiel contient des sources pour la formation JEE donnée à Edacy Makersday
 
 
 # module.xml Mysql driver
