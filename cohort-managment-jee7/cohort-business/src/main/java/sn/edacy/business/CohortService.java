@@ -6,6 +6,7 @@ import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.persistence.Query;
+/*habi*/
 
 import sn.edacy.model.Cohort;
 import sn.edacy.model.Talent;
